@@ -1,0 +1,28 @@
+{
+  "name": "blackwire-consultancy",
+  "version": "1.0.0",
+  "description": "Modern IT consultancy website for Blackwire Consultancy",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=8080 --host=0.0.0.0 --open=/",
+    "build": "echo 'Build complete'",
+    "deploy": "echo 'Deploy to production'"
+  },
+  "keywords": [
+    "it-consultancy",
+    "cloud-services",
+    "ai-solutions",
+    "cybersecurity",
+    "technology"
+  ],
+  "author": "Blackwire Consultancy",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amekn/blackwire.git"
+  },
+  "homepage": "https://blackwireconsultancy.com"
+}
