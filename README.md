@@ -1,4 +1,4 @@
-# Blackwire Consultancy
+# Blackwire IT
 
 ## Comprehensive IT Solutions for Modern Business
 
@@ -98,37 +98,16 @@ We partner with industry leaders to deliver the best solutions:
 
 Ready to transform your IT infrastructure? Contact us today for a free consultation:
 
-- **Email**: info@blackwireconsultancy.com
-- **Phone**: +1 (555) 123-4567
-- **Address**: 123 Technology Drive, Silicon Valley, CA 94025
+- **Email**: blackwireit@gmail.com
 
 ## Our Commitment
 
-At Blackwire Consultancy, we are committed to delivering innovative, reliable, and secure IT solutions that drive business success. We measure our success by your success.
+At Blackwire IT, we are committed to delivering innovative, reliable, and secure IT solutions that drive business success. We measure our success by your success.
 
 ---
 
 *Last updated: February 2026*
 *Version: 1.0*
-
----
-
-## Quick Links
-
-- [Services](https://blackwireconsultancy.com/services)
-- [Portfolio](https://blackwireconsultancy.com/portfolio)
-- [About Us](https://blackwireconsultancy.com/about)
-- [Contact](https://blackwireconsultancy.com/contact)
-- [Blog](https://blackwireconsultancy.com/blog)
-- [Careers](https://blackwireconsultancy.com/careers)
-
----
-
-### Legal
-- [Privacy Policy](https://blackwireconsultancy.com/privacy)
-- [Terms of Service](https://blackwireconsultancy.com/terms)
-- [Cookie Policy](https://blackwireconsultancy.com/cookies)
-- [Service Level Agreement](https://blackwireconsultancy.com/sla)
 
 ---
 
